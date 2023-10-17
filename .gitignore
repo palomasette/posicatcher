@@ -1,0 +1,6 @@
+.env
+.vscode
+__pycache__
+clientes
+registro_movi_posi_fundos
+log.txt
